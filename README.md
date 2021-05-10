@@ -1,1 +1,1 @@
-Hello, World!
+Git is fun!
